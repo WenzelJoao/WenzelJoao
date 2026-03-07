@@ -21,7 +21,7 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projeto em destaque
 
 - 🚀 Sistema de Trilhas com HTML, CSS e JavaScript
 
