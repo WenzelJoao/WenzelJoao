@@ -6,7 +6,7 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 
 ---
 
-![Snake animation](https://github.com/WenzellJoao/WenzellJoao/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=WenzellJoao&theme=tokyonight&hide_border=true)
 ---
 
 ## 📂 Projetos em destaque
