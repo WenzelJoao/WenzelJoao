@@ -6,7 +6,7 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 
 ---
 
-![Snake animation](https://github.com/WenzellJoao/WenzelJoao/blob/output/github-contribution-grid-snake.svg)
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Olá+eu+sou+João+Vitor;Estudante+de+Desenvolvimento+de+Sistemas;Desenvolvedor+Web" />
 
 ---
 
