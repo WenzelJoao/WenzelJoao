@@ -22,8 +22,8 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-wenzel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-wenzel&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-Wenzel_Joao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-WenzelJoao&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
@@ -40,14 +40,14 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 
 ---
 
-<p align="center">
-  Desenvolvido por João Vitor
-</p>
-
----
-
 ## 📫 Contato
 
 📧 Email: jvitorwenzel@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/joão-vitor-w-b084aa21b
+
+---
+
+<p align="center">
+  Desenvolvido por João Vitor
+</p>
