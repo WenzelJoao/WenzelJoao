@@ -6,7 +6,7 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=WenzellJoao&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=WenzelJoao&theme=tokyonight&hide_border=true)
 ---
 
 ## 📂 Projetos em destaque
