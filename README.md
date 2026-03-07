@@ -9,8 +9,8 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 ## 📊 Estatísticas do GitHub
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WenzellJoao&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenzellJoao&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WenzelJoao&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenzelJoao&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
