@@ -10,7 +10,22 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 
 ---
 
+### 🚀 Sobre Mim
+- 🔭 Atualmente trabalhando em projetos com **React**, **TypeScript** e **Node.js**.
+- 🌱 Estudando **Node.js** e aprofundando em **Banco de Dados (Postgresql)**.
+- ⚡ Curiosidade: Apaixonado por transformar ideias em interfaces funcionais.
+
+---
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=WenzelJoao&theme=tokyonight&hide_border=true)
+
+---
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-wenzel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-wenzel&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
 ---
 
 ## 📂 Projetos em destaque
@@ -22,6 +37,12 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 ## 💻 Tecnologias
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+<p align="center">
+  Desenvolvido por João Vitor
+</p>
 
 ---
 
