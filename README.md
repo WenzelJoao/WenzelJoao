@@ -21,13 +21,6 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-Wenzel_Joao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-WenzelJoao&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ## 📂 Projetos em destaque
 
 - 🚀 Sistema de Trilhas com HTML, CSS e JavaScript
