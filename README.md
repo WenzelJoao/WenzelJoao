@@ -6,7 +6,9 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Olá+eu+sou+João+Vitor; Estudante+de+Desenvolvimento+de+Sistemas;Desenvolvedor+Web" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Olá+eu+sou+João+Vitor;Estudante+de+Desenvolvimento+de+Sistemas;Desenvolvedor+Web"/>
+</p>
 
 ---
 
