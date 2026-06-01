@@ -11,7 +11,7 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e estou focado em dese
 ---
 
 ### 🚀 Sobre Mim
-- 🔭 Atualmente trabalhando em projetos com **React**, **TypeScript** e **Node.js**.
+- 🔭 Atualmente trabalhando em projetos com **React**, **TypeScript**, **PostegreSQL** e **Node.js**.
 - 🌱 Estudando **Node.js** e aprofundando em **Banco de Dados (Postgresql)**.
 - ⚡ Curiosidade: Apaixonado por transformar ideias em interfaces funcionais.
 
